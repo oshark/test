@@ -1,1 +1,1 @@
-number is 4
+number is 6
